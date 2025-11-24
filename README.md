@@ -12,20 +12,20 @@
 
 # ⚡ About Me — *Who I Am in 20 Seconds*
 
-🔥 **4 years experienced Java Backend Developer**  
-🔥 Specialized in **Enterprise APIs, Distributed Systems, Kafka Pipelines & Observability**  
-🔥 Built and maintained systems for **American Express & Vanguard** via TCS  
-🔥 Strong with **Spring Boot, DB2/IMS, Kafka, Solace, Splunk, Jenkins, JUnit/Mockito**  
+🔥 <b>4 years experienced Java Backend Developer</b>  
+🔥 Specialized in <b>Enterprise APIs, Distributed Systems, Kafka Pipelines & Observability</b>  
+🔥 Built and maintained systems for <b>American Express & Vanguard</b> via TCS  
+🔥 Strong with <b>Spring Boot, DB2/IMS, Kafka, Solace, Splunk, Jenkins, JUnit/Mockito</b>  
 🔥 Passionate about clean architecture, performance tuning & production-grade services  
 
-📄 **Resume:**  
-👉 [Download My Resume](sandbox:/mnt/data/Saikumar_Kodamanchili_SE_4yrs.pdf)
+📄 <b>Resume:</b>  
+👉 <a href="sandbox:/mnt/data/Saikumar_Kodamanchili_SE_4yrs.pdf">Download My Resume</a>
 
 ---
 
 # 🌈 NEON SKILL BARS — My Tech Stack, Visualized
 
-```html
+```
 🟩 Java               ████████████████░░░░░░  85%
 🟩 Spring Boot        ████████████████░░░░░░  85%
 🟨 Kafka              ███████████░░░░░░░░░░░  65%
@@ -41,7 +41,7 @@
 # 🚀 Tech Stack (Neon Cyber Icons)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,idea,kafka,jenkins,git,bitbucket,postman" height="70" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,idea,kkafka,jenkins,git,bitbucket,postman" height="70" />
 </p>
 
 <p align="center">
@@ -52,35 +52,37 @@
 
 # 🛰️ Experience — High Impact Work
 
-## 💼 **Software Engineer — Tata Consultancy Services (2021–Present)**  
-### 🔹 *American Express — Global Risk Management System*  
-- Built scalable **REST APIs** on Java + Spring Boot  
-- Real-time processing using **Kafka & Solace**  
-- DB2/IMS data integration with optimized queries  
-- Created **Splunk dashboards** for API KPIs & latency  
-- Strengthened systems with JUnit, Mockito tests  
-- Automated CI/CD on Jenkins  
+## 💼 <b>Software Engineer — Tata Consultancy Services (2021–Present)</b>
 
-### 🔹 *Vanguard — Consultant Hub*  
-- Engineered backend systems for investment workflows  
-- Microservice modernization & observability enhancement  
-- Reduced API latency & improved production stability  
+### 🔹 <b>American Express — Global Risk Management System</b>
+- Built scalable <b>REST APIs</b> using Java + Spring Boot  
+- Real-time pipeline development using <b>Kafka & Solace</b>  
+- DB2/IMS integration with high-performance data workflows  
+- Created <b>Splunk dashboards</b> for latency, error rates, KPI insights  
+- Strengthened systems with <b>JUnit + Mockito</b>  
+- Automated CI/CD pipelines using <b>Jenkins</b>  
+
+### 🔹 <b>Vanguard — Consultant Hub</b>
+- Backend systems for investment & portfolio workflows  
+- Improved microservice performance & observability  
+- Reduced API latency & improved production reliability  
 
 ---
 
-# 🎯 Why You Should Hire Me (Recruiter & Tech-Lead Friendly)
+# 🎯 Why You Should Hire Me (Recruiter + Tech Lead Friendly)
 
-✔ Strong backend foundations — OOP, APIs, threading, performance  
-✔ Experienced with **financial-grade systems** (risk + investments)  
-✔ Production mindset — logging, metrics, dashboards, alerts  
-✔ Clean code → maintainable, scalable, testable  
-✔ Confident in design discussions (Kafka pipelines, microservices, event streams)  
+✔ Strong backend fundamentals — OOP, APIs, performance tuning  
+✔ Experience in <b>risk, finance, investment</b> domains  
+✔ Production-minded — logs, metrics, dashboards, alerts  
+✔ Clean code with architecture-first thinking  
+✔ Skilled in <b>event-driven systems (Kafka, Solace)</b>  
+✔ Reliable, consistent, and fast-learning engineer  
 
 💬 *“I build backend systems that don’t break in production.”*
 
 ---
 
-# ⚡ GitHub Analytics (Updated for saikumar-kodamachili)
+# ⚡ GitHub Analytics (Auto-Generated)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saikumar-kodamachili&show_icons=true&theme=radical" height="160" />
@@ -103,9 +105,9 @@
 
 # 📫 Contact Me
 
-📧 **Email:** sk.kodamanchili@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/saikumar-kodamanchili-aa9735205/  
-💻 **GitHub:** https://github.com/saikumar-kodamachili  
+📧 <b>Email:</b> sk.kodamanchili@gmail.com  
+🔗 <b>LinkedIn:</b> https://www.linkedin.com/in/saikumar-kodamanchili-aa9735205/  
+💻 <b>GitHub:</b> https://github.com/saikumar-kodamachili  
 
 ---
 
